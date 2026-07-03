@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSA in JS(day-2)</title>
+</head>
+
+<body>
+    <input type="number" id="input_field">
+    <button onclick="getValue()">Get Value</button>
+    <script>
+        let data = [9, 45, 2, 8, 5, 15, 56, 16, 85, 266]
+        // console.log(data.length);
+        // for (let i = 0; i <= data.length; i++) {
+        //     console.log(i)
+        // }
+
+        // Travesing
+
+        // for (let i = 0; i < data.length; i++) {
+        //     console.log(data[i]);
+        //     document.write(`Array ${i} is: ${data[i]} <br>`)
+        // }
+
+        // Accessing
+
+        // let access = 3;
+        // document.write(data[access]);
+
+        // getValue function
+
+        function getValue() {
+            let inputField = document.getElementById("input_field")
+            console.log("User Type:", inputField.value)
+            let checkValue = inputField.value;
+            if (checkValue < data.length && typeof checkValue !="string") {
+                console.log(`Value at ${checkValue} is: ${data[checkValue]}`)
+            }
+            else{
+                alert("Please enter valid input");
+            }
+
+        }
+
+
+    </script>
+</body>
+
+</html>
