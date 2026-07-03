@@ -12,21 +12,22 @@
 
 ## 📖 About
 
-This repository documents my complete Data Structures & Algorithms learning journey using JavaScript.
+This repository documents my complete **Data Structures & Algorithms (DSA)** journey using **JavaScript**. It is organized in a structured, day-by-day format to help beginners and aspiring software engineers build a strong foundation in DSA.
 
-Every topic is covered in a structured, day-by-day format with:
+### 🚀 What You'll Find
 
-📚 Easy-to-understand explanations
-📝 Detailed Google Docs notes for in-depth learning
-💻 Clean and readable code implementations
-⚡ Optimized approaches
-⏱️ Time & Space Complexity analysis
-🧠 Multiple problem-solving techniques
-📈 Progressive learning roadmap
+- 📚 Beginner-friendly concept explanations
+- 📝 Detailed Google Docs notes for in-depth learning
+- 💻 Clean, well-commented JavaScript implementations
+- ⚡ Brute Force, Better, and Optimal approaches (where applicable)
+- ⏱️ Time & Space Complexity analysis
+- 🧠 Multiple problem-solving techniques
+- 🎯 Interview-focused questions and solutions
+- 📈 A structured learning roadmap from basics to advanced topics
 
-Each day's folder also includes a link to detailed Google Docs notes, making it easier to understand concepts before diving into the code implementations.
+Each day's folder also includes a link to detailed **Google Docs notes**, making it easier to understand the concepts before exploring the code implementations.
 
-Whether you're a beginner or looking to strengthen your DSA fundamentals, this repository is designed to help you learn consistently.
+Whether you're just starting your DSA journey or preparing for coding interviews, this repository is designed to help you learn consistently, practice effectively, and improve your problem-solving skills.
 
 ---
 
