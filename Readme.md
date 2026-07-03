@@ -12,16 +12,19 @@
 
 ## 📖 About
 
-This repository documents my complete **Data Structures & Algorithms** learning journey using **JavaScript**.
+This repository documents my complete Data Structures & Algorithms learning journey using JavaScript.
 
 Every topic is covered in a structured, day-by-day format with:
 
-- 📚 Easy-to-understand explanations
-- 💻 Clean and readable code
-- ⚡ Optimized approaches
-- ⏱️ Time & Space Complexity analysis
-- 🧠 Multiple problem-solving techniques
-- 📈 Progressive learning roadmap
+📚 Easy-to-understand explanations
+📝 Detailed Google Docs notes for in-depth learning
+💻 Clean and readable code implementations
+⚡ Optimized approaches
+⏱️ Time & Space Complexity analysis
+🧠 Multiple problem-solving techniques
+📈 Progressive learning roadmap
+
+Each day's folder also includes a link to detailed Google Docs notes, making it easier to understand concepts before diving into the code implementations.
 
 Whether you're a beginner or looking to strengthen your DSA fundamentals, this repository is designed to help you learn consistently.
 
