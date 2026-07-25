@@ -1,12 +1,22 @@
 <html>
-    <head>
-        <title>Day- 3(Insert Element in Array)</title>
-    </head>
-    <body>
-        <script>
-            let data = [60,30,10,67,40];
-            let newElement = [70];
-            let position = 2;
-        </script>
-    </body>
+
+<head>
+    <title>Day- 3(Insert Element in Array)</title>
+</head>
+
+<body>
+    <script>
+        let data = [60, 30, 10, 67, 40];
+        let newElement = [70];
+        let position = 2;
+
+        for (let i = data.length; i >= position; i--) {
+            data[i] = data[i - 1];
+
+        }
+        data[position] = data[newElement];
+        console.log(data);
+    </script>
+</body>
+
 </html>
