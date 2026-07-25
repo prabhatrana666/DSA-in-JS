@@ -12,11 +12,12 @@
 
         for (let i = data.length; i > position; i--) {
             data[i] = data[i - 1];
-
+            console.log(data[i]);
+            console.log(data[i - 1]);
         }
         data[position] = newElement.at(0);
         console.log(data); // [60, 30, 70, 10, 67, 40]
-        
+
     </script>
 </body>
 
