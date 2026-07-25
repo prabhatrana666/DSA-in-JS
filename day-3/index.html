@@ -16,8 +16,19 @@
         }
         data[position] = newElement.at(0);
         console.log(data); // [60, 30, 70, 10, 67, 40]
-        
+
         console.timeEnd("My Code");
+
+        // Direct Methods by JS
+
+        let items = [60, 30, 10, 67, 40];
+        let addItems = 70;
+        let newPosition = 2;
+        console.time("Splice start")
+        items.splice(newPosition, 0, addItems);
+        console.log(items); //[60, 30, 70, 10, 67, 40]
+        console.timeEnd("Splice start") // Splice start: 0.110107421875 ms
+
     </script>
 </body>
 
