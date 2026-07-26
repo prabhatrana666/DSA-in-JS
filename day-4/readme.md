@@ -3,7 +3,6 @@
 
 📖 Topics Covered
 
-Insert elements in array
 
 📝 Notes
 
