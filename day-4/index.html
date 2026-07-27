@@ -6,7 +6,17 @@
 
 <body>
     <script>
-       
+        let array = [10, 20, 30, 12, 19, 92];
+        let position = 2;
+        let i = 0;
+        console.log("Before", array);
+        for (i; i <= array.length; i++) {
+            // console.log(i);
+            if (i == position) {
+                array[i] = array[i + 1];
+            }
+        }
+        console.log("After", array);
     </script>
 </body>
 
