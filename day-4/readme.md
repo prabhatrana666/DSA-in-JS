@@ -2,7 +2,7 @@
 # 📅 Day 4 — Delete Element in Array
 
 📖 Topics Covered
-Delete
+Delete Elements
 
 📝 Notes
 
