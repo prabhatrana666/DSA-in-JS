@@ -2,7 +2,7 @@
 # 📅 Day 4 —    
 
 📖 Topics Covered
-Delete
+
 
 📝 Notes
 
