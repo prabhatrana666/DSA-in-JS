@@ -1,5 +1,5 @@
 
-# 📅 Day 4 —   
+# 📅 Day 4 —  Delete
 
 📖 Topics Covered
  Delete Elements in Array
