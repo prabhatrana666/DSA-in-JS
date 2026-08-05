@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-Hello ji Kaise
+Hello ji Kaise ho
 📝 Notes
 
 View detailed notes here:
