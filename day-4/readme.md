@@ -3,7 +3,8 @@
 
 📖 Topics Covered
 
-Hello ji Kaise ho app
+Delete ji Kaise ho app
+
 📝 Notes
 
 View detailed notes here:
