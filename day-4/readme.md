@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-Delete Elements ji Kaise ho app
+Delete Elements in Array ho app
 
 📝 Notes
 
