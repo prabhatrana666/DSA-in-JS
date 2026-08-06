@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-Delete ji Kaise ho app
+Delete Elements ji Kaise ho app
 
 📝 Notes
 
