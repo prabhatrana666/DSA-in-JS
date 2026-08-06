@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-Delete Elements in Array ho app
+Delete Elements in Array ho
 
 📝 Notes
 
