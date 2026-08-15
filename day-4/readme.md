@@ -3,7 +3,6 @@
 
 📖 Topics Covered
 
- Delete  
 
 📝 Notes
 
