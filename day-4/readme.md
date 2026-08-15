@@ -3,6 +3,7 @@
 
 📖 Topics Covered
 
+Happy Independence Day
 
 📝 Notes
 
