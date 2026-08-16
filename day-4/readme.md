@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-Happy Independence 
+Happy  
 
 📝 Notes
 
