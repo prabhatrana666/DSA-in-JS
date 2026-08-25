@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-  DeleteElements
+  DeleteElementsin
 
 📝 Notes
 
