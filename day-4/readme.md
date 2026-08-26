@@ -1,5 +1,5 @@
 
-# 📅 Day 4 —  Delete  Elements
+# 📅 Day 4 —  Delete  Elements in
 
 📖 Topics Covered
 
