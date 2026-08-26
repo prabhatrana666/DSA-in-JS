@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-  Delete Elements in Array
+   Elements in Array
 
 📝 Notes
 
