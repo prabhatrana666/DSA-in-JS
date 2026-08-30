@@ -1,5 +1,5 @@
 
-# 📅 Day 4 — Array Elements in A
+# 📅 Day 4 — Array Elements in Array
 
 📖 Topics Covered
 
