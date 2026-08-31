@@ -1,5 +1,5 @@
 
-# 📅 Day 4 — Array Delete Elements 
+# 📅 Day 4 — Array Delete Elements in
 
 📖 Topics Covered
 
