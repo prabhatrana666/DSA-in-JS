@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-  Array Eleents
+  Array Elements
 
 📝 Notes
 
