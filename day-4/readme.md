@@ -1,5 +1,5 @@
 
-# 📅 Day 4 — Array  in Day-4
+# 📅 Day 4 — Array Elements in Day-4
 
 📖 Topics Covered
 
