@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-  Array Elements in day-4
+  Array Elements in 
 
 📝 Notes
 
