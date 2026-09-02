@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-  Array Elements
+  Array 
 
 📝 Notes
 
