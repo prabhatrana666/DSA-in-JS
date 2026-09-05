@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-The topic is  
+The topic   
 
 📝 Notes
 
