@@ -1,5 +1,5 @@
 
-# 📅 Day 4 —  This is all   
+# 📅 Day 4 —  This is    
 
 📖 Topics Covered
 
