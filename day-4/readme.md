@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-The topic is array here
+The topic is array 
 
 📝 Notes
 
