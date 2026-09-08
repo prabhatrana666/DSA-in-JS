@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-My Name is Prabhat
+My Name is Prabhat Rana
 
 📝 Notes
 
