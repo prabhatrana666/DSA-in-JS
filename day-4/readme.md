@@ -1,5 +1,5 @@
 
-# 📅 Day 4 —  My Name is  
+# 📅 Day 4 —  My Name   
 
 📖 Topics Covered
 
