@@ -1,5 +1,5 @@
 
-# 📅 Day 4 —  My Name is Prabhat 
+# 📅 Day 4 —  My Name is  
 
 📖 Topics Covered
 
