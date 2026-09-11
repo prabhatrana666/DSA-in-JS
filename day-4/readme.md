@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
-My Name   
+My    
 
 📝 Notes
 
