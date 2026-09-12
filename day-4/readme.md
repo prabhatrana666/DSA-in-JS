@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
- Today is 12  
+ Today is 12 Sep
 
 📝 Notes
 
