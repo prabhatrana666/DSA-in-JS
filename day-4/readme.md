@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
- Today is 12 Sep 2026 and I am
+ Today is 12 Sep 2026 and I am stuck here
 
 📝 Notes
 
