@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
- Today is        
+ Today         
 
 📝 Notes
 
