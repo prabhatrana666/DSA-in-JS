@@ -3,7 +3,7 @@
 
 📖 Topics Covered
 
- Today  is again 
+ Today  is again day
 
 📝 Notes
 
