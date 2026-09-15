@@ -1,5 +1,5 @@
 
-# 📅 Day 4 —  Today is 15
+# 📅 Day 4 —  Today is 15 Sep
 
 📖 Topics Covered
 
