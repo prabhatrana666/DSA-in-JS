@@ -29,6 +29,8 @@ Constraints:
 
 Time limit: 1 sec
 
+-------------------------------------------------------
+
 Code:
 
 function isSorted(n, a) {
