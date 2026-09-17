@@ -44,6 +44,6 @@ function isSorted(n, a) {
         }
     }
 
-    return 1
+    return 1;
 }
 
