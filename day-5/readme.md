@@ -1,3 +1,3 @@
 
-# 📅 Day 5 —  Today is 
+# 📅 Day 5 —  Today 
 
