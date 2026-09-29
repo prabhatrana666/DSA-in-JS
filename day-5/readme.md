@@ -1,4 +1,4 @@
 
-# 📅 Day 5 —  Day - 5(Data Structure & Algorithms hiii)
+# 📅 Day 5 —  Day - 5(Data Structure & Algorithms)
 
 This is prabhat rana and for now this is stopped.
